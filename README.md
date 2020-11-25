@@ -36,4 +36,9 @@ Dataset source: The data is from Kaggle (https://www.kaggle.com/vjchoudhary7/hr-
   - Filling missing value
   - Encode the categorical variables
   = Split data train and data test
-
+- Modelling
+  - Train and test the dataset with the models
+  - Find for best parameters with Hypermeter Paratuning : GridSearchCV
+  - Train and test the dataset with best parameters
+ - Result
+  - Gradient Boosting has the best evaluation metrics 
