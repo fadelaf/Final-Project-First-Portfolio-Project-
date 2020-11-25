@@ -10,6 +10,6 @@ However, there are some cons with attrition which cause some problem to the comp
 - •	Losing potential employee
 - •	Require not small cost for recruitment and training.
 
-# DATASET
+# Dataset
 Dataset source: The data is from Kaggle (https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study)
 
