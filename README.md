@@ -1,5 +1,5 @@
 # Purwadhika Final Project: Employee Attrition
-# DATASET DESCRIPTION
+# Employee Attrition and Its Problem
 
 Employee attrition is a normal cycle in a company where employees decide to leave, such as retirement, resignation, personal health, new opportunities for advance career, not fit with company culture, and other similar reasons. Attrition seemed to be more voluntary and normal because the influences of attrition come from employee itself rather than company. Due to that, attrition always be compared to turnover, which also have similar things but seemed to be more negative.
 However, there are some cons with attrition which cause some problem to the company.
@@ -10,5 +10,6 @@ However, there are some cons with attrition which cause some problem to the comp
 - •	Losing potential employee
 - •	Require not small cost for recruitment and training.
 
+# DATASET
 Dataset source: The data is from Kaggle (https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study)
 
