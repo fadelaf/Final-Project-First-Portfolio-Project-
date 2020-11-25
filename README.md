@@ -13,3 +13,13 @@ However, there are some cons with attrition which cause some problem to the comp
 # Dataset
 Dataset source: The data is from Kaggle (https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study)
 
+# Goals
+- Gain insight from the dataset
+- To find if there are any factors possibly increase or reduce the level of attrition
+- Build macahine learning to predict if an employee will stay or leave from the company
+
+# Model
+- Logistic Regression
+- Random Forest Classifier
+- Gradient Boosting Classifier
+
