@@ -23,3 +23,17 @@ Dataset source: The data is from Kaggle (https://www.kaggle.com/vjchoudhary7/hr-
 - Random Forest Classifier
 - Gradient Boosting Classifier
 
+# Work Steps:
+- Data Preparation:
+  - Understanding the dataset
+  - Checking information summary about the dataset
+  - Checking if there are any duplicated data
+  - Checking if there are any inconsistent data value
+- Exploratory Data Analysis and Data Visualization:
+  - Performing visualization of descriptive statistic from the dataset
+  - Gain insight from the descriptive statistic and the visualization
+- Feature Engineering:
+  - Filling missing value
+  - Encode the categorical variables
+  = Split data train and data test
+
