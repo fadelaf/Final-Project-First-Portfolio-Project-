@@ -47,4 +47,6 @@ Dataset source: The data is from Kaggle (https://www.kaggle.com/vjchoudhary7/hr-
   # Model Result:
   
 ![AUC ROC 1](https://user-images.githubusercontent.com/68144108/100516202-e0c7d900-31b4-11eb-8a2d-173320a565c7.png)
-  
+![AUC ROC 2](https://user-images.githubusercontent.com/68144108/100516237-1bca0c80-31b5-11eb-9b8d-6f8d9a5a8c59.png)
+![Class Report](https://user-images.githubusercontent.com/68144108/100516241-1e2c6680-31b5-11eb-9801-4e9938e10d77.png)
+
