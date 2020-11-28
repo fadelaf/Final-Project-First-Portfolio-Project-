@@ -43,6 +43,7 @@ Dataset source: The data is from Kaggle (https://www.kaggle.com/vjchoudhary7/hr-
  - Result
   - Gradient Boosting has the best evaluation metrics 
   # Model Result:
-  ![](images/\Data Science  Purwadhika\Final Project\Final Project fix all AUC ROC 2.png)
+  
+  ![AUC ROC Train](AUC ROC 1.png)
   
   
