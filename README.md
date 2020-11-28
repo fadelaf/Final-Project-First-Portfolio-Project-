@@ -18,6 +18,8 @@ Dataset source: The data is from Kaggle (https://www.kaggle.com/vjchoudhary7/hr-
 - To find if there are any factors possibly increase or reduce the level of attrition
 - Build macahine learning to predict if an employee will stay or leave from the company
 
+
+
 # Model
 - Logistic Regression
 - Random Forest Classifier
@@ -44,5 +46,5 @@ Dataset source: The data is from Kaggle (https://www.kaggle.com/vjchoudhary7/hr-
   - Gradient Boosting has the best evaluation metrics 
   # Model Result:
   
-  ![AUC ROC Train](AUC ROC 1.png)
+![AUC ROC 1](https://user-images.githubusercontent.com/68144108/100516202-e0c7d900-31b4-11eb-8a2d-173320a565c7.png)
   
